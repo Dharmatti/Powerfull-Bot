@@ -93,10 +93,10 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+fZh6pDNLwpkyZTJl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+fZh6pDNLwpkyZTJl')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/+fZh6pDNLwpkyZTJl')
-DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/+fZh6pDNLwpkyZTJl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/DVITTALKANNADAMOVIE')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/DVITTALKANNADAMOVIE')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/DVITTALKANNADAMOVIE')
+DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/DVITTALKANNADAMOVIE')
 OWNERID = int(os.environ.get('OWNERID', '2089142494'))  # Replace with the actual admin ID
 
 # ============================
@@ -114,7 +114,7 @@ MAX_B_TN = environ.get("MAX_B_TN", "8")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 MSG_ALRT = environ.get('MSG_ALRT', 'Share & Support Us ♥️')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/any_support_01')  # Support group link (make sure bot is admin)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/DVITTALKANNADAMOVIE')  # Support group link (make sure bot is admin)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
