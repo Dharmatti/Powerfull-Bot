@@ -28,7 +28,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://envs.sh/gY0.jpeg https://envs.sh/fge.jpg https://envs.sh/fra.jpg https://envs.sh/fHV.jpg https://envs.sh/fsB.jpg https://envs.sh/fgi.jpg https://envs.sh/fsn.jpg https://envs.sh/fgD.jpg https://envs.sh/fgb.jpg https://envs.sh/fsS.jpg https://envs.sh/fgP.jpg https://envs.sh/fgh.jpg https://envs.sh/fsT.jpg https://envs.sh/fgw.jpg https://envs.sh/fsA.jpg https://envs.sh/fgF.jpg https://envs.sh/fgq.jpg https://envs.sh/fs_.jpg https://envs.sh/fgt.jpg')).split()  # Sample pic
+PICS = (environ.get('PICS', 'https://envs.sh/Zh.jpg')).split()  # Sample pic
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/aPc.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
@@ -39,7 +39,7 @@ FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c
 # Admin, Channels & Users Configuration
 # ============================
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8096214375 2089142494').split()] # Replace with the actual admin ID(s) to add
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002167205597 -1002308128053 -1002491660021').split()]  # Channel id for auto indexing (make sure bot is admin)
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002370799287').split()]  # Channel id for auto indexing (make sure bot is admin)
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002329137995'))  # Log channel id (make sure bot is admin)
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-1002291819675'))  # Bin channel id (make sure bot is admin)
 DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '-1002329137995'))  # Notification of those who verify will be sent to your channel
@@ -84,10 +84,10 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/How_to_Download_01211
 # ============================
 # Link Shortener Configuration
 # ============================
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnlinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5d2cccf0bfdf0b16384bf4ee01a04288c67faa19')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_to_Download_01211hh')  # Tutorial video link for opening shortlink website
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ModiJiUrl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '9a744174cdc4c1db7f79d3c4819e58e39cda8cf3')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopenlinkvideo')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 # ============================
