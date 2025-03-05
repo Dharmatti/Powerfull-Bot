@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '22237124'))
 API_HASH = environ.get('API_HASH', '3ed92051ab8064684d8b1a5babd79ec8)
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7775980936:AAE2ruW0KZZvRb8vO0BZ9RPWCeu70vsBzjE")
 
 # ============================
 # Bot Settings Configuration
@@ -42,7 +42,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002370799287').split()]  # Channel id for auto indexing (make sure bot is admin)
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002329137995'))  # Log channel id (make sure bot is admin)
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-1002291819675'))  # Bin channel id (make sure bot is admin)
-DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '-1002329137995'))  # Notification of those who verify will be sent to your channel
+DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '-1002220670718'))  # Notification of those who verify will be sent to your channel
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '0'))  # Premium logs channel id
 auth_channel = environ.get('AUTH_CHANNEL', '-1002220670718')  # Channel/Group ID for force sub (make sure bot is admin)
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002370487322').split()]
