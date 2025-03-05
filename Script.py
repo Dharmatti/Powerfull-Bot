@@ -194,9 +194,9 @@ Nᴀᴍᴇ - {}
 
 <b>🎉 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑫𝒐𝒏𝒂𝒕𝒆 𝑴𝒆𝒕𝒉𝒐𝒅 👇</b>
 
-➢ QR Cᴏᴅᴇ : <a href='https://envs.sh/fz8.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
+➢ QR Cᴏᴅᴇ : <a href='https://telegra.ph/file/4946073a6362a840e7c5d-9b229504651e4800f3.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
-➢ Uᴘɪ Iᴅ : <code>sureshksambu3@ybl</code>
+➢ Uᴘɪ Iᴅ : <code>dacchuvdvd@axl</code>
 
 ‼️ 𝑴𝒖𝒔𝒕 𝑺𝒆𝒏𝒅 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑨𝒇𝒕𝒆𝒓 𝑫𝒐𝒏𝒂𝒕𝒆.</b>"""
     
@@ -469,9 +469,9 @@ BOT WORKING PROPERLY"""
 ‼️ 𝑨𝒇𝒕𝒆𝒓 𝑺𝒆𝒏𝒅𝒊𝒏𝒈 𝑨 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑷𝒍𝒆𝒂𝒔𝒆 𝑮𝒊𝒗𝒆 𝒖𝒔 𝒔𝒐𝒎𝒆 𝑻𝒊𝒎𝒆 𝑻𝒐 𝑨𝒅𝒅 𝒀𝒐𝒖 𝑰𝒏 𝑻𝒉𝒆 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑳𝒊𝒔𝒕.</b>"""    
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : Its not a open source project if you want
-                                     Source code contact admin 👇 </b>
+    Source code contact admin 👇 </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://telegram.me/Brand_01_01>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://telegram.me/d_Vittal_911545>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ</a>\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
