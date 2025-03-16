@@ -273,7 +273,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<blockquote><a href='https://t.me/Brand_01_01_01'>{file_name}</blockquote></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player @Preethamdg</b>"""
+    CAPTION = """<blockquote><a href='https://t.me/DVITTALKANNADAMOVIE🎉'>{file_name}</blockquote></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player @DVITTALKANNADAMOVIE 🍿</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -362,7 +362,7 @@ BOT WORKING PROPERLY"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://telegram.me/Brand_01_01'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/DVITTALKANNADAMOVIE'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -447,13 +447,13 @@ BOT WORKING PROPERLY"""
 
 <blockquote>⚜️ 10 𝑹𝒖𝒑𝒂𝒚𝒆 👉 7 𝒅𝒂𝒚𝒔
 
-⚜️ 20 𝑹𝒖𝒑𝒂𝒚𝒆 👉 15 𝒅𝒂𝒚𝒔 
+⚜️ 20 ರೂಪಾಯಿ 👉 15 𝒅𝒂𝒚𝒔 
 
-⚜️ 30 𝑹𝒖𝒑𝒂𝒚𝒆 👉 30 𝒅𝒂𝒚𝒔 
+⚜️ 30 ರೂಪಾಯಿ 👉 30 𝒅𝒂𝒚𝒔 
 
-⚜️ 55 𝑹𝒖𝒑𝒂𝒚𝒆 👉 60 𝒅𝒂𝒚𝒔 
+⚜️ 55 ರೂಪಾಯಿ 👉 60 𝒅𝒂𝒚𝒔 
 
-⚜️ 75 𝑹𝒖𝒑𝒂𝒚𝒆 👉 90 𝒅𝒂𝒚𝒔</blockquote>
+⚜️ 75 ರೂಪಾಯಿ 👉 90 𝒅𝒂𝒚𝒔</blockquote>
 
 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅.....
 
